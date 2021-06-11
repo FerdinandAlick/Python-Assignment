@@ -1,0 +1,1 @@
+Rewrite the grade program using a function called computegrade that takes a score as its parameter and returns a grade as a string.
